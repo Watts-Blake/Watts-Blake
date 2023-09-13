@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Blake Watts!
 
-[![Blake Watts's GitHub stats](https://github-readme-stats.vercel.app/api?username=Watts-Blake&theme=gruvbox&show_icons=true)](https://github.com/Watts-Blake)
+
 
 Passionate about creating, learning and making an impact.
 Videogame enthusiast, Bourbon connoisseur, take my dog in the mountains and explore type of person.
