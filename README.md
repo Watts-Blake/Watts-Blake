@@ -4,11 +4,10 @@
 [![Blake Watts's GitHub stats](https://github-readme-stats.vercel.app/api?username=Watts-Blake&theme=gruvbox&show_icons=true)](https://github.com/Watts-Blake)
 
 Passionate about creating, learning and making an impact.
-Videogame enthusiast, Bourbon connoisseur, take my dog in the mountains and explore type of person.
 
-Former Firefighter, Business Owner, and Current Software Engineer.
+Former Firefighter, and Business Owner.
 
-I am currently looking for a company where I can display my passion for my work and continue to learn on a day-to-day basis.
+Currently working as a Software Engineer for Life Center North West. Helping bring applications to production in our team in order to save more lives and serve our community.
 
 <!--
 **Watts-Blake/Watts-Blake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
